@@ -1,0 +1,7 @@
+1. First run the file "generate_csv.py" to create a random CSV file with 10000 unique records. (This generator is used for ease of access. If you have the CSV file rename it as "movies.csv" ).
+
+2. Run the main.py file.
+3. Follow the instructions as the script continues.
+4. Once user has put all the inputs, the output gnerated will be saved as "filtered_movies.csv"
+
+--- Reach out to me if you got any issues : thavindul@gmail.com ---
